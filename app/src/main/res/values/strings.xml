@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dia6deb</string>
+
+    <string-array name="productos">
+        <item>Agua</item>
+        <item>Refresco</item>
+        <item>Vino</item>
+        <item>Cerveza</item>
+    </string-array>
+
+</resources>
